@@ -10,8 +10,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dines-04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dines-04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dines-04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" width="400" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dines-04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"  width="450" height="200" alt="languages graph"  /><br><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dines-04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"/>
 </div>
 
 <br>
@@ -33,7 +34,7 @@
 No activity tracked
 ```
 <br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dines-04&" alt="dines-04" /></p>
+<p></p>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,7 +51,7 @@ No activity tracked
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dines-04&show_icons=true&locale=en&layout=compact" alt="dines-04" /></p>
 
 ### Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dines-04&show_icons=true&locale=en" alt="dines-04" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dines-04&&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /></p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dines-04&limit=5&theme=flat&combine_all_yearly_contributions=true)
