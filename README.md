@@ -1,13 +1,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dines-04&label=Profile%20views&color=0e75b6&style=flat" alt="dines-04" /> </p>
 
-<h1 align="center">Hey Everyone 👋, I'm DINES S</h1>
+<h1 align="center">Hey Everyone  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm DINES S</h1>
 
 <div align="center"> <img src="https://raw.githubusercontent.com/dines-04/dines-04/main/banner.jpg"> </div>
 
-<h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@devopsshack</h3>
+<h3 align="center">A passionate DevOps Engineer From India. I want work in Corporate IT Sector and in my free time I improve myself through coding,problem solving,etc...</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dines-04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dines-04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 <br>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="395" height="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 🔭 I’m currently working on [JAVA PROJECT | FRONT-END PROJECT](https://github.com/DINES-04)
 
 - 🌱 I’m currently learning **JavaScript & MangoDB**
@@ -17,8 +25,14 @@
 - 💬 Ask me about **Java & Python3**
 
 - 📫 How to reach me **dines.s16102004@gmail.com**
-<br><br><br><br>
 <br>
+
+📊 **This Week I Spent My Time On:**
+
+```txt
+No activity tracked
+```
+<br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dines-04&" alt="dines-04" /></p>
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -40,3 +54,11 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dines-04&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
