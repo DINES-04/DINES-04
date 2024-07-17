@@ -40,6 +40,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dines-04&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
-### My GitHub Contributions
-![Snake animation](ttps://github.com/dines-04/dines-04/blob/output/github-contribution-grid-snake.svg)
