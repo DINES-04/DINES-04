@@ -51,3 +51,10 @@ No activity tracked
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dines-04&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+<details>	
+ <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://badgr.com/backpack/badges/6719f30474b60a50e42ff3b3">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /></a>
+</div>
+</details>
