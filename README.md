@@ -47,7 +47,7 @@
 📊 **This Week I Spent My Time On:**
 
 ```txt
-No activity tracked
+Open Source COntributor
 ```
 <br>
 <h3 align="left">Connect with me:</h3>
