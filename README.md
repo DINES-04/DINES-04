@@ -64,4 +64,4 @@ Open Source COntributor
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dines-04&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-
+[![An image of @dines04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dines04)](https://holopin.io/@dines04)
