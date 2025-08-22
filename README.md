@@ -3,7 +3,7 @@
 
 <h1 align="center">Hey Everyone  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm DINES S</h1>
 
-<div align="center"> <img src="https://raw.githubusercontent.com/dines-04/dines-04/main/banner.jpg"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/dines-04/dines-04/main/banner_updated.png"> </div>
 
 <h3 align="center">A passionate DevOps Engineer From India. I want work in Corporate IT Sector and in my free time I improve myself through coding,problem solving,etc...</h3>
 <br>
